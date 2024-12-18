@@ -1,0 +1,15 @@
+
+
+.box {
+	margin-bottom: 5px;
+	height: 100px;
+	background-color: red;
+	min-height: 100px;
+}
+
+.mh {
+	min-height: 300px;
+	background-color: green;
+
+}
+
